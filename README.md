@@ -25,7 +25,7 @@ Users can create blogs, categorize them, select publish dates, and view blogs so
 - React Hook Form + Zod
 - Tailwind CSS
 - ShadCN UI
-- REST API
+
 
 ---
 
