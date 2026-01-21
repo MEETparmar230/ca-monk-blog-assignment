@@ -43,7 +43,8 @@ VITE_API=http://localhost:5000
 
 ```bash
 Run the app:
-npm run dev
+  npm run dev
+  npm run server
 ```
 
 ---
