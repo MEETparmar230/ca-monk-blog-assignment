@@ -33,7 +33,6 @@ Users can create blogs, categorize them, select publish dates, and view blogs so
 
 ```bash
 git clone https://github.com/MEETparmar230/ca-monk-blog-assignment
-cd frontend
 npm install
 ```
 
